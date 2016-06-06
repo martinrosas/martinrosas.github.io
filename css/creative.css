@@ -65,7 +65,10 @@ p {
 }
 
 .text-faded {
-    color: rgba(255,255,255,.7);
+    color: rgba(12, 12, 12, 0.7);
+    font-family: Monaco;
+    font-size: 18px;
+
 }
 
 section {
